@@ -54,4 +54,18 @@ img {
   img {
     width: 100%;
   }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.6em;
+    margin: .5em;
+  }
+
+  p {
+    font-size: .9em;
+    line-height: 1.2em;
+  }
 }
