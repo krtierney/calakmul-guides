@@ -4,6 +4,17 @@ body {
   text-align: center;
 }
 
+@media all and (min-width: 1000px) {
+  div#container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  p {
+    width: 44em;
+    margin: 1em auto;
+  }
+}
+
 h1 {
   font-style: italic;
   color: rgb(56, 63, 255);
